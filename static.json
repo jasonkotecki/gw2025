@@ -8,7 +8,7 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
-        "title": "Modern Research Data Portal",
+        "title": "Jason's Modern Research Data Portal",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
       },
@@ -17,8 +17,7 @@
           "client_id": "f045e79f-37bd-42ff-90aa-a6188f5523d9"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "collection_id": "5821471c-95b5-4a37-81ee-df7f88e70fee",
         }
       }
     }
